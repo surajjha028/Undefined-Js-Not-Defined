@@ -20,6 +20,6 @@
 
 ## NOTE :- 
 -> Javascript is very flexible language.
-   Suppose that if we have put a string, later we can out boolean,number etc.
+   Suppose that if we have put a string, later we can put boolean,number etc.
    
 -> And it is also known as lossely type language and weakly type language.(But it is much stronger).
